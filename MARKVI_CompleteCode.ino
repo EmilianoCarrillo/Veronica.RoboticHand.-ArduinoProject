@@ -58,18 +58,20 @@ void loop() {
   int medioSensor = analogRead(A2);
   int anularSensor = analogRead(A3);
   int meniqueSensor = analogRead(A4);
+    Serial.println(anularSensor);
+
 //Serial.println(meniqueSensor);               //(Para ver los valores análogos de los sensores ya justar map)
 
 // Corresponder el valor de cada sensor (Obtenidos arriba) a grados de 0 a 180
-  int pulgarPos = map(pulgarSensor, 450, 230, 0, 180);
+  int pulgarPos = map(pulgarSensor, 380, 320, 0, 180);
   pulgarPos = constrain(pulgarPos, 0, 180);
-  int indicePos = map(indiceSensor, 470, 330, 180, 0);
+  int indicePos = map(indiceSensor, 400, 280, 180, 0);
   indicePos = constrain(indicePos, 0, 180);
   int medioPos = map(medioSensor, 420, 260, 180, 0);
   medioPos = constrain(medioPos, 0, 180);
-  int anularPos = map(anularSensor, 480, 280, 0,180);
+  int anularPos = map(anularSensor, 420, 370, 0,180);
   anularPos = constrain(anularPos, 0, 180);
-  int meniquePos = map(meniqueSensor, 480, 270, 0, 180);
+  int meniquePos = map(meniqueSensor, 310, 255, 0, 180);
   meniquePos = constrain(meniquePos, 0, 180);
 
 //Mover a los servos dándoles el valor de su posición variable
@@ -120,5 +122,4 @@ panServo.write(panVal);
 delay(0);
 
 }
-
 
