@@ -1,7 +1,8 @@
 # VERONICA MK VIII
 ## ROBOTIC HAND (ARDUINO PROJECT)
 
-![Oficial B](https://raw.githubusercontent.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/master/README%20photos/Captura%20de%20pantalla%202016-12-22%20a%20la(s)%2014.02.03.png)
+![CoverPhoto1](https://github.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/blob/master/README%20photos/firstCover.jpg?raw=true)
+![CoverPhoto2](https://github.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/blob/master/README%20photos/secondCover.jpg?raw=true)
 
 This project was also a school project I did on my own a few months ago. It uses Arduino to control some servo motors attached to some string in order to move the articulations from the fingers of a rigged hand skeleton I made. It is controled by a human using a glove with five sensors.
 It is a simple project even tough it looks difficult. The tricky part was to make the hand look good and sthetic.
@@ -57,3 +58,4 @@ It was my greatest Arduino project.
 I also made the logo of the Tees we were wearing on the presentation. It is a LED made with pure geometric shapes and two triangle outlines in the background. The LED on the TeeShirt lit whenever it was dark. IT WAS AWESOME.
 ![LOGO](https://raw.githubusercontent.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/master/README%20photos/Captura%20de%20pantalla%202016-12-22%20a%20la(s)%2015.38.48.png)
 
+![Oficial B](https://raw.githubusercontent.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/master/README%20photos/Captura%20de%20pantalla%202016-12-22%20a%20la(s)%2014.02.03.png)
