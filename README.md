@@ -1,5 +1,6 @@
 # VERONICA MK VIII
 ## ROBOTIC HAND (ARDUINO PROJECT)
+[WATCH IT IN MOTION HERE!!!!](https://www.youtube.com/watch?v=lwFDNPkSpyk)
 
 ![CoverPhoto1](https://github.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/blob/master/README%20photos/firstCover.jpg?raw=true)
 ![CoverPhoto2](https://github.com/emiliano-carrillo/Veronica.RoboticHand.-ArduinoProject/blob/master/README%20photos/secondCover.jpg?raw=true)
